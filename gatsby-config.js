@@ -10,7 +10,7 @@ module.exports = {
     author: "Jurek Skowron",
   },
   plugins: [
-    `gatsby-plugin-sass`,
+    "gatsby-plugin-sass",
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -18,5 +18,6 @@ module.exports = {
         path: `${__dirname}/src/`,
       },
     },
+    "gatsby-transformer-remark",
   ],
 }
