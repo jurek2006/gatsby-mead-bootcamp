@@ -5,5 +5,9 @@
  */
 
 module.exports = {
+  siteMetadata: {
+    title: "Full-Stack Bootcamp",
+    author: "Jurek Skowron",
+  },
   plugins: [`gatsby-plugin-sass`],
 }
