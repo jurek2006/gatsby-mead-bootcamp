@@ -4,6 +4,7 @@ date: "2019-08-07"
 ---
 
 A new blog-post.
+![Grass](./grass.jpg)
 
 ## Topics Covered
 
